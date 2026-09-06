@@ -4,6 +4,12 @@
   <b>Web Designer & Developer</b>
 </p>
 
+
+<p align="center">
+  <img src="aggelosnt/image.png" alt="Aggelos D." width="250" />
+</p>
+
+
 <p align="center">
   Building clean, modern and responsive digital experiences.
 </p>
