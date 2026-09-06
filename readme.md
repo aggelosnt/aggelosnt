@@ -32,16 +32,14 @@ and building projects for my portfolio.
 ## core skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,js,ts,vscode,linux" />
 </p>
 
-**languages:** HTML · CSS · JavaScript · Python · PHP
+**languages:** HTML · CSS · JavaScript · TypeScript
 
-**frontend:** Responsive Design · UI/UX · Web Animations
+**frontend:** React · Responsive Design · UI/UX · Web Animations
 
-**tools:** Git · GitHub · VS Code · Linux · Cloudflare
-
----
+**tools:** VS Code · Linux · Git · GitHub
 
 ## github stats
 
