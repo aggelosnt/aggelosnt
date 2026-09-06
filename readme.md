@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="aggelosnt/image.jpg" alt="Aggelos D." width="250" />
+  <img src="image.jpg" alt="Aggelos D." width="250" />
 </p>
 
 
