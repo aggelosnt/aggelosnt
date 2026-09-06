@@ -47,37 +47,6 @@ and building projects for my portfolio.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aggelosnt&theme=github-dark-blue&hide_border=true" />
 </p>
 
----
-
-## most used languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aggelosnt&layout=compact&hide_border=true&theme=github_dark" />
-</p>
-
----
-
-## projects
-
-### 🛒 E-Commerce
-Modern e-commerce interface focused on responsive design and clean UI.
-
-### 📅 Sunny
-Calendar and productivity application.
-
-### 🏠 Insurance Preview
-Responsive landing page built as part of my web development portfolio.
-
----
-
-## contribution activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aggelosnt&theme=github-dark&hide_border=true" />
-</p>
-
----
-
 ## connect with me
 
 <p align="left">
