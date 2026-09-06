@@ -50,11 +50,11 @@ and building projects for my portfolio.
 ## connect with me
 
 <p align="left">
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="aggelosnt.win">
     <img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge" />
   </a>
 
-  <a href="YOUR_INSTAGRAM_URL">
+  <a href="https://www.instagram.com/aggelosnt_/">
     <img src="https://img.shields.io/badge/Instagram-Profile-black?style=for-the-badge&logo=instagram" />
   </a>
 </p>
