@@ -1,34 +1,94 @@
 <h1 align="center">Aggelos D.</h1>
 
 <p align="center">
-  Web Designer & Developer
+  <b>Web Designer & Developer</b>
 </p>
 
 <p align="center">
-  Building clean, responsive and modern digital experiences.
+  Building clean, modern and responsive digital experiences.
 </p>
 
 ---
 
-### About Me
+## about
 
-I'm a web designer and developer focused on creating modern,
-minimal and user-friendly websites and applications.
+I'm a web designer and developer from Greece focused on creating
+modern websites, web applications and clean user interfaces.
 
-Currently expanding my portfolio through real-world projects
-and experimenting with new technologies.
+I enjoy turning ideas into polished digital experiences and
+experimenting with new technologies.
 
-### Tech
+Currently focused on improving my front-end development skills
+and building projects for my portfolio.
 
-HTML · CSS · JavaScript · Python · PHP · Git · Linux
+---
 
-### Current Focus
+## core skills
 
-- Front-end development
-- UI/UX
-- Responsive web design
-- Full-stack fundamentals
-- Building portfolio projects
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,git,github,vscode,linux" />
+</p>
+
+**languages:** HTML · CSS · JavaScript · Python · PHP
+
+**frontend:** Responsive Design · UI/UX · Web Animations
+
+**tools:** Git · GitHub · VS Code · Linux · Cloudflare
+
+---
+
+## github stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aggelosnt&show_icons=true&hide_border=true&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aggelosnt&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+## most used languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aggelosnt&layout=compact&hide_border=true&theme=github_dark" />
+</p>
+
+---
+
+## projects
+
+### 🛒 E-Commerce
+Modern e-commerce interface focused on responsive design and clean UI.
+
+### 📅 Sunny
+Calendar and productivity application.
+
+### 🏠 Insurance Preview
+Responsive landing page built as part of my web development portfolio.
+
+---
+
+## contribution activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aggelosnt&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## connect with me
+
+<p align="left">
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge" />
+  </a>
+
+  <a href="YOUR_INSTAGRAM_URL">
+    <img src="https://img.shields.io/badge/Instagram-Profile-black?style=for-the-badge&logo=instagram" />
+  </a>
+</p>
 
 ---
 
